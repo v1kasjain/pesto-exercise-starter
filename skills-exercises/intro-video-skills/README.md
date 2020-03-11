@@ -4,7 +4,7 @@
 
 ### Put the URL of the loom or youtube video here.
 
-### URL: ________
+### URL: https://www.youtube.com/channel/UCChYUn1Md4Dd5fRWIAN5sxg?view_as=subscriber
 
 _Example-_
 
